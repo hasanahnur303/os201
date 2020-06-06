@@ -1,0 +1,22 @@
+Script started on Sat 06 Jun 2020 11:22:51 AM WIB
+nur.fauziah81@badak:~$ PS1="$ "
+$ echo $GitHubUser
+hasanahnur303
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200606-112331-3e16-nur.fauziah81/>
+$ PS1="\$(eval \$PSTAMP)"
+200606-112341-9cf4-nur.fauziah81/> date
+Sat Jun  6 11:23:52 WIB 2020
+200606-112352-91c4-nur.fauziah81/> gpg2 --list-keys
+/home/fasilkom/mahasiswa/n/nur.fauziah81/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/F0DF2906 2020-06-06 [expires: 2020-12-03]
+uid       [ultimate] Nur Fauziah Hasanah (OS201 C 1806147104 hasanahnur303 Nur Fauziah Hasanah) <sigigibesar@gmail.com>
+sub   4096R/99371005 2020-06-06 [expires: 2020-12-03]
+
+200606-112406-6172-nur.fauziah81/> exit
+exit
+
+Script done on Sat 06 Jun 2020 11:24:24 AM WIB
