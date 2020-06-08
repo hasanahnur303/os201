@@ -1,6 +1,7 @@
 ## Nur Fauziah Hasanah
 
 Hi, everyone!
+url aku [URL](https://akunGitHub.github.io/os201/URL/)
 
 ### Markdown
 
@@ -21,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://hasanahnur303.github.io/os201/URLs/) and ![Image](src)
+[Link](link) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
