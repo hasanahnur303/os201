@@ -1,2 +1,5 @@
+permalink
+/url/
+
 ## My Links
 
