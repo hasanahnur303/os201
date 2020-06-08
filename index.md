@@ -1,7 +1,7 @@
 ## Nur Fauziah Hasanah
 
 Hi, everyone!
-url aku [URL](https://akunGitHub.github.io/os201/URL/)
+url aku [URL](https://akunGitHub.github.io/os201/url/)
 
 ### Markdown
 
