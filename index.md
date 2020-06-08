@@ -2,8 +2,7 @@
 
 Hi, everyone!
 url aku 
-
-[URLs](https://hasanahnur303.github.io/os201/url)
+* [URLs](URLs/)
 
 ### Markdown
 
