@@ -1,0 +1,25 @@
+Script started on Mon 08 Jun 2020 02:02:11 PM WIB
+nur.fauziah81@badak:~$ cd UAS
+nur.fauziah81@badak:~/UAS$ ls -F
+0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc
+nur.fauziah81@badak:~/UAS$ sha1sum 000* > SHA1SUM
+nur.fauziah81@badak:~/UAS$ cat SHA1SUM
+503a4cd9bc6a560f9fa8fd432493f7b5f9c11927  0000-mypub.txt
+f178e627c2c6b032cc745773c35c194c9fa081be  0001-mytest.txt
+f4a256387eeb5d9f0e0c418e19c804981d383fc4  0002-mytest.txt.asc
+nur.fauziah81@badak:~/UAS$ gpg2 -sb -a SHA1SUM
+
+You need a passphrase to unlock the secret key for
+user: "Nur Fauziah Hasanah (OS201 C 1806147104 hasanahnur303 Nur Fauziah Hasanah) <sigigibesar@gmail.com>"
+4096-bit RSA key, ID F0DF2906, created 2020-06-06
+
+nur.fauziah81@badak:~/UAS$ ls -F
+0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  SHA1SUM  SHA1SUM.asc
+nur.fauziah81@badak:~/UAS$ gpg2 --verify SHA1SUM.asc
+gpg: assuming signed data in 'SHA1SUM'
+gpg: Signature made Mon 08 Jun 2020 02:07:52 PM WIB using RSA key ID F0DF2906
+gpg: Good signature from "Nur Fauziah Hasanah (OS201 C 1806147104 hasanahnur303 Nur Fauziah Hasanah) <sigigibesar@gmail.com>" [ultimate]
+nur.fauziah81@badak:~/UAS$ exit
+exit
+
+Script done on Mon 08 Jun 2020 02:08:15 PM WIB
