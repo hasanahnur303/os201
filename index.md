@@ -14,15 +14,12 @@ learn kind of person.
 ```
 
 ## OS URLS
-```markdown
 * [URLs](URLs/)
 * [os.vslm.org](https://os.vlsm.org/)
 * [blog Pak RMS](https://rahmatm.samik-ibrahim.vlsm.org/)
 * [my github](https://github.com/hasanahnur303/)
-```
+
 
 ## Contact Me
-```markdown
 * [Github Page](https://hasanahnur303.github.io/os201/)
 * [Instagram](https://instagram.com/_hasanahhur)
-```
