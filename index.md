@@ -1,37 +1,28 @@
-## Nur Fauziah Hasanah
+# Hi, There!
+Welcome to my github page!
+This is a repository for storing my OS course’s material.
 
-Hi, everyone!
-url aku 
-* [URLs](URLs/)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## About Me
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](link) and ![Image](src)
+I regard mgself to be a very open-minded person
+and have strong creativity in visualizing
+something, especially graphic designing and
+video editing. I am a very curious type of person
+that ready for new Challenges, thus I am a hard
+working and also have a strong willingness to
+learn kind of person.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## OS URLS
+```markdown
+* [URLs](URLs/)
+* [os.vslm.org](https://os.vlsm.org/)
+* [blog Pak RMS](https://rahmatm.samik-ibrahim.vlsm.org/)
+* [my github](https://github.com/hasanahnur303/)
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hasanahnur303/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact Me
+```markdown
+* [Github Page](https://hasanahnur303.github.io/os201/)
+* [Instagram](https://instagram.com/_hasanahhur)
+```
