@@ -25,3 +25,5 @@ learn kind of person.
 ## Contact Me
 * [Github Page](https://hasanahnur303.github.io/os201/)
 * [Instagram](https://instagram.com/_hasanahhur)
+
+## Jolan Tru!
