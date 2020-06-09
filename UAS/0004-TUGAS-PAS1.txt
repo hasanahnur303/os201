@@ -1,34 +1,34 @@
-Script started on Mon 08 Jun 2020 08:08:08 PM WIB
+Script started on Tue 09 Jun 2020 10:55:51 AM WIB
 nur.fauziah81@badak:~$ PS1="$ "
 $ echo $GitHubUser
 hasanahnur303
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-200855-8a93-nur.fauziah81/>
+200609-105618-e630-nur.fauziah81/>
 $ PS1="\$(eval \$PSTAMP)"
-200608-200919-cb87-nur.fauziah81/> echo -e $CEKSAYA
+200609-105625-4ae8-nur.fauziah81/> echo -e $CEKSAYA
 hasanahnur303 ZCZCSCRIPTSTART 200606-115002 hasanahnur303
  hasanahnur303 hasanahnur303 200606-115046-ca5e-nur.fauziah81/ 200606-115046 SEQOK SUMOK ca5ef5dd
  hasanahnur303 hasanahnur303 200606-115058-10b7-nur.fauziah81/ 200606-115058 SEQOK SUMOK 10b7f0d7
  hasanahnur303 hasanahnur303 200606-115106-347f-nur.fauziah81/ 200606-115106 SEQOK SUMOK 347fa162
  hasanahnur303 hasanahnur303 200606-115117-9cb9-nur.fauziah81/ 200606-115117 SEQOK SUMOK 9cb9ef8a
  hasanahnur303 ZCZCSCRIPTSTOP 200606-115122 SEQOK
-200608-200929-1fe0-nur.fauziah81/> echo -e $CEKSEBELA1
+200609-105631-42fa-nur.fauziah81/> echo -e $CEKSEBELA1
 hasanahnur303 ZCZCSCRIPTSTART 200528-235208 hedass
  hasanahnur303 hedass 200528-235348-893e-UAS/ 200528-235348 SEQOK SUMOK 893e1923
  hasanahnur303 hedass 200528-235404-3ef9-UAS/ 200528-235404 SEQOK SUMOK 3ef9641f
  hasanahnur303 hedass 200528-235414-5bd0-UAS/ 200528-235414 SEQOK SUMOK 5bd0ea20
  hasanahnur303 hedass 200528-235436-f9b2-UAS/ 200528-235436 SEQOK SUMOK f9b21c9f
  hasanahnur303 ZCZCSCRIPTSTOP 200528-235448 SEQOK
-200608-200951-b1ef-nur.fauziah81/> echo -e $CEKSEBELA2
-hasanahnur303 ZCZCSCRIPTSTART 200604-114901 HelmiAlf
- hasanahnur303 HelmiAlf 200604-234928-399b-helmi.alfarel/ 200604-234928 SEQOK SUMNO c66c22c4
- hasanahnur303 HelmiAlf 200604-234937-cf1d-helmi.alfarel/ 200604-234937 SEQOK SUMNO da39a3ee
- hasanahnur303 HelmiAlf 200604-234940-3696-helmi.alfarel/ 200604-234940 SEQOK SUMNO 7adeae7d
- hasanahnur303 HelmiAlf 200604-234948-692e-helmi.alfarel/ 200604-234948 SEQOK SUMNO 25477219
+200609-105639-f6c2-nur.fauziah81/> echo -e $CEKSEBELA2
+hasanahnur303 ZCZCSCRIPTSTART 200604-114901 helmiAlf
+ hasanahnur303 HelmiAlf 200604-234928-399b-helmi.alfarel/ 200604-234928 SEQOK SUMOK 399b4253
+ hasanahnur303 HelmiAlf 200604-234937-cf1d-helmi.alfarel/ 200604-234937 SEQOK SUMOK cf1d081e
+ hasanahnur303 HelmiAlf 200604-234940-3696-helmi.alfarel/ 200604-234940 SEQOK SUMOK 36965f2a
+ hasanahnur303 HelmiAlf 200604-234948-692e-helmi.alfarel/ 200604-234948 SEQOK SUMOK 692e9b1d
  hasanahnur303 ZCZCSCRIPTSTOP 200604-114956 SEQOK
-200608-201003-f7bc-nur.fauziah81/> exit
+200609-105704-4051-nur.fauziah81/> exit
 exit
 
-Script done on Mon 08 Jun 2020 08:10:10 PM WIB
+Script done on Tue 09 Jun 2020 10:57:08 AM WIB
