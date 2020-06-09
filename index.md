@@ -17,10 +17,6 @@ learn kind of person.
 
 ## OS URLS
 * [URLs](URLs/)
-* [os.vslm.org](https://os.vlsm.org/)
-* [blog Pak RMS](https://rahmatm.samik-ibrahim.vlsm.org/)
-* [my github](https://github.com/hasanahnur303/)
-
 
 ## Contact Me
 * [Github Page](https://hasanahnur303.github.io/os201/)
