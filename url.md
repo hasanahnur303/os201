@@ -2,8 +2,7 @@
 permalink: /URLs/
 ---
 
-![https://i.ibb.co/jycjhwg/back.png](https://hasanahnur303.github.io/os201/)
-<img href="https://hasanahnur303.github.io/os201/" src= "https://i.ibb.co/jycjhwg/back.png"  width="80">
+[<img src="https://i.ibb.co/jycjhwg/back.png" width="30"></img>] (https://hasanahnur303.github.io/os201/)
 
 ## My Links
 ```markdown
