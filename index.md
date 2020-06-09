@@ -3,7 +3,7 @@ Welcome to my github page!
 This is a repository for storing my OS course’s material.
 
 ## About Me
-![Image](https://drive.google.com/file/d/1kEn8jPrdER3bLMUn2T-Z98Y5kSQEHgpK/view?usp=sharing)
+![](https://ibb.co/5TJ1Y27)
 ```markdown
 I regard mgself to be a very open-minded person
 and have strong creativity in visualizing
